@@ -1,6 +1,3 @@
----
-
-```markdown
 # Hi there, I'm Sam Naqvi 👋
 
 ### AI Engineer | Machine Learning & GenAI Specialist
@@ -58,11 +55,3 @@ Building autonomous systems and deep learning architectures to solve real-world 
 </p>
 
 *"Building the future of intelligence, one layer at a time."*
-```
-
----
-
-### 💡 Pro-Tips for your Profile:
-1. **GitHub Stats:** The statistics cards will automatically update as you push more code to your repositories.
-2. **LinkedIn/Email:** Make sure to replace `YOUR_LINKEDIN_USERNAME` and `YOUR_EMAIL@gmail.com` in the code above with your actual contact info.
-3. **Dark/Light Mode:** I set the theme to `dark` for the stats cards. If you prefer the light GitHub look, change `theme=dark` to `theme=flat` or `theme=radical`.
