@@ -1,5 +1,7 @@
+---
+
 ```markdown
-# Hi there,  👋
+# Hi there, I'm Sam Naqvi 👋
 
 ### AI Engineer | Machine Learning & GenAI Specialist
 Building autonomous systems and deep learning architectures to solve real-world challenges.
