@@ -1,4 +1,4 @@
-# Hi there, I'm Sam Naqvi 👋
+# Hi there,  👋
 
 ### AI Engineer | Machine Learning & GenAI Specialist
 Building autonomous systems and deep learning architectures to solve real-world challenges.
@@ -47,11 +47,3 @@ Building autonomous systems and deep learning architectures to solve real-world 
 
 ---
 
-### 📫 Let's Connect
-
-<p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sam Naqvi" height="30" width="40" /></a>
-<a href="mailto:YOUR_EMAIL@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="samnaqvi3737" height="30" width="40" /></a>
-</p>
-
-*"Building the future of intelligence, one layer at a time."*
