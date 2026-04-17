@@ -38,12 +38,3 @@ Building autonomous systems and deep learning architectures to solve real-world 
 
 ---
 
-### 📊 GitHub Insights
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=samnaqvi3737&show_icons=true&theme=dark" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samnaqvi3737&layout=compact&theme=dark" />
-</p>
-
----
-
